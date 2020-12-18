@@ -1,5 +1,5 @@
 import View from './View.js';
-
+import { Fraction } from 'fractional';
 import icons from 'url:../../img/icons.svg'; //parcel 2
 // import Fraction from 'fractional';
 // console.log(Fraction); cant install from npm, fuck it
